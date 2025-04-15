@@ -11,7 +11,7 @@ a shared commitment to **linguistic sovereignty**, **transparency**, and **colla
 
 ## 📜 Manifestos
 
-- 🌐 [Marovi International Manifesto](./Marovi_International_Manifesto.md)
+- 🌐 [Marovi International Manifesto](./international.md)
 
 ---
 
