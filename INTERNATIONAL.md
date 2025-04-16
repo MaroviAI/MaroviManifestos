@@ -6,14 +6,14 @@
 
 ### Why We Exist
 
-Modern AI systems—LLMs and translation models—are powerful, but they are optimized for **English, centralization, and opacity**.
+Modern AI systems — from translation engines to general-purpose LLMs — are powerful, but they are optimized for **English, centralization, and opacity**.
 
-Languages with fewer speakers, less training data, or more cultural nuance are being left behind or misrepresented by:
+Languages with fewer speakers, less training data, or more cultural nuance are often left behind or misrepresented by:
 
 - Black-box models
-- Uncontrolled translations
-- Poor reasoning fidelity
-- Lack of national or cultural ownership
+- Inconsistent or tone-deaf translations
+- Gaps in reasoning across languages
+- Lack of local participation in model development
 
 **Marovi exists to change that.**
 
@@ -21,71 +21,69 @@ Languages with fewer speakers, less training data, or more cultural nuance are b
 
 ### Our Mission
 
-> To empower every country and language community to **evaluate, improve, and deploy the best AI language models** for their people—through open-source tools, transparent benchmarks, and collaborative infrastructure.
+> To help every country and language community **evaluate, improve, and deploy their own multilingual AI infrastructure** — using open-source tools, public benchmarks, and community-powered collaboration.
 
 ---
 
 ### What We Provide
 
 #### ✅ 1. Open Benchmarks for Every Language
-- Compare the best LLMs and translators in your language
-- See breakdowns by use case: legal, academic, casual, technical
-- Access the full raw evaluation data and correction traces
+- Evaluate how well top models work in your language
+- Break down performance by domain: legal, research, conversation, etc.
+- Access raw test data, outputs, and correction logs
 
-#### ✅ 2. Transparent Pipelines
-- Reproducible, open-source translation and QA pipelines
-- Community-controlled glossary enforcement and tone targeting
-- Modular eval systems that anyone can audit or improve
+#### ✅ 2. Transparent, Reproducible Pipelines
+- Open-source translation and refinement pipelines
+- Glossary injection, tone controls, and eval modules
+- Built to be forked, audited, improved
 
-#### ✅ 3. Community Collaboration Tools
-- Vote on preferred translations and glossary terms
-- Submit corrections, use them to fine-tune open models
-- Help define what “correct” means—**on your own terms**
+#### ✅ 3. Community Participation Tools
+- Propose or vote on glossary terms
+- Log corrections and glossary mismatches
+- Help tune, test, or even train better models for your language
 
-#### ✅ 4. Hostability and Sovereignty
-- Self-hostable or cloud-hosted infrastructure for:
-  - Local governments
-  - Universities
-  - Research labs
-- Own your evals, your glossary, and your model improvements
+#### ✅ 4. Self-Hosting and Sovereignty Options
+- Deployable infrastructure for universities, labs, or governments
+- Support for localized pipelines, glossaries, and corpora
+- Interfaces to improve or override central models with local feedback
 
 ---
 
-### Who We Work With
+### Who This Is For
 
-- National AI programs  
-- Language preservation groups  
-- Universities and AI labs  
-- Open-source contributors and translators  
-- Research institutions working in or across languages
+- Language-focused researchers and NLP teams  
+- Policy makers and national AI programs  
+- Educators and public infrastructure advocates  
+- LSPs and language tech startups  
+- Open-source contributors and regional leaders
 
 ---
 
 ### We Believe...
 
-🌐 Every language deserves its own LLM evaluation report  
-📚 Every glossary should be human-approved, transparent, and updatable  
-🧠 Every correction should be reusable training signal  
-🗳️ Every community should have a say in how their language is modeled  
-🛠️ And every pipeline should be open, reproducible, and buildable by anyone
+🌐 Every language deserves transparent LLM evaluations  
+📚 Every glossary should reflect community input  
+🧠 Every correction is a training signal  
+🗳️ Communities should help define what “correct” means in context  
+🛠️ And every language should have access to open infrastructure — not just English
 
 ---
 
 ### Join Us
 
-Whether you’re a:
+Whether you're a:
 - Translator  
 - Researcher  
 - Engineer  
 - Professor  
 - Policy leader  
-- Student who wants better LLMs for your native language...
+- Student working in or on your native language...
 
-**You are Marovi.**
+You are Marovi.
 
 ---
 
 🛠️ [Contribute to `MaroviPipelines`](#)  
-🌍 [Request a Language Page or Regional Node](#)  
-📥 [Join the Community + Mailing List](#)  
-📊 [Submit Your Model or Evaluation Dataset](#)
+🌍 [Propose a Language Benchmark or Glossary](#)  
+📥 [Join the Community Mailing List](#)  
+📊 [Submit a Model or Evaluation Result](#)
