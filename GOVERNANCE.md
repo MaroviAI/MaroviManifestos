@@ -1,77 +1,74 @@
-# 🔐 Marovi Governance Philosophy
+# 🌐 Marovi Governance Philosophy
 
-**Marovi is an open-source, multilingual AI infrastructure project — but it is not decentralized.**  
-We believe in open collaboration, language sovereignty, and empowering communities to improve AI in their language — while maintaining a unified, trusted platform for global deployment.
-
----
-
-## ✅ What Marovi Owns and Maintains
-
-- The **Marovi brand**, product vision, and global roadmap  
-- Core repositories: `MaroviPipelines`, `MaroviWeb`, `MaroviInternal`  
-- The hosted **Marovi SaaS platform**, including:  
-  - Pro tools and gated features  
-  - API access for translation, refinement, and benchmarking  
-  - Correction + glossary management systems  
-- The official **benchmark formats**, eval tooling, and integration specs  
-- Any globally hosted glossary/correction corpora unless otherwise licensed
+**Marovi is an open-source project committed to multilingual AI infrastructure — with a focus on global coordination, clarity, and long-term impact.**  
+We believe in empowering communities to shape how AI represents their languages, while maintaining the consistency and reliability needed to make those contributions actionable, trusted, and scalable.
 
 ---
 
-## 🌍 What Communities Can Build Together
+## ✨ Our Vision
 
-Marovi is a platform that **enables language communities to co-develop their own open-source AI infrastructure** — including:
+We want to make it possible for every language community — large or small — to:
+- Evaluate how well today's AI systems perform in their language
+- Contribute improvements to those systems
+- Build tools, benchmarks, and datasets that reflect local needs and values
 
-- Evaluating and documenting the **best LLMs and translators** for their language  
-- Hosting **open benchmarks** and sharing raw evaluation data  
-- Contributing corrections and glossary terms to refine outputs  
-- Collaboratively fine-tuning open-source models or training new ones  
-- Building their **own sovereign stacks** — with open weights, prompts, and pipelines
-
-> In this sense, Marovi is like Hugging Face — but focused specifically on translation, multilingual reasoning, correction tracking, and glossary control.
+Marovi exists to support that work — not to own it, but to help it scale, connect, and last.
 
 ---
 
-## 🧠 Contribution ≠ Control
+## 🔧 What Marovi Maintains
 
-- All contributions are **reviewed and curated by the Marovi team**  
-- Communities can **propose, maintain, and lead language-specific efforts**  
-- The Marovi team ensures code, benchmarks, and brand consistency  
-- Forks are welcome, but **the Marovi name is centrally governed**
+To ensure the ecosystem remains stable and usable across contributors, organizations, and regions, Marovi maintains:
 
----
+- The **project roadmap**, architecture, and infrastructure  
+- Core repositories: `MaroviPipelines`, `MaroviWeb`, and related tooling  
+- The hosted **Marovi platform**, including:  
+  - Translation and benchmarking APIs  
+  - Correction and glossary management tools  
+  - Pro features for hosted use  
+- Benchmark standards and evaluation specs  
+- Governance over the official brand and naming
 
-## 💬 A Shared Model, Not a Centralized One
-
-Marovi provides:
-- Reproducible pipelines and open benchmarks  
-- A stable API and extensible architecture  
-- Transparent governance for language data
-
-But each language community can:
-- Define what “correct” means for their use cases  
-- Submit their best models, weights, and pipelines  
-- Improve or replace open-source baselines over time  
-- Co-own the benchmark results, corrections, and preferred stack
+This enables a coherent experience while allowing others to innovate, extend, and adapt freely.
 
 ---
 
-## 💰 Why This Still Enables Revenue
+## 🤝 How Communities Contribute
 
-This open approach allows:
-- Public collaboration + contribution
-- Transparent benchmarking
-- Private SaaS monetization through hosting, support, and enhanced tools
+Language communities are invited to:
+- Lead **language-specific manifestos** and guidelines  
+- Submit benchmarks, eval data, glossary terms, and corrections  
+- Propose open-source models, weights, and pipelines for public use  
+- Collaborate on tuning or adapting systems for specific domains (e.g. legal, scientific, creative)
 
-> Marovi aims to be the trusted infrastructure for multilingual AI — **owned publicly, stewarded responsibly, and delivered commercially.**
+These contributions **stay open** and are **credited** clearly, with an emphasis on reusability across the ecosystem.
 
 ---
 
-### 🌐 Want to lead the effort for your language?
+## 🧭 Governance Principles
 
-- Translate our manifesto  
-- Submit a benchmark or glossary  
-- Propose a better pipeline  
-- Improve the open-source models
+- Contributions are **curated and maintained** by the Marovi core team to ensure clarity and consistency  
+- Communities can organize, lead, and represent their language — and we aim to support those leaders  
+- The brand is centrally managed to protect quality and alignment, while **the code and data remain open**
 
-Together, we can make multilingual AI more accurate, ethical, and community-owned — without sacrificing quality or control.
+---
+
+## 💡 Why This Matters
+
+We believe in an open, reliable, and extensible approach:
+- Open collaboration, not fragmentation  
+- Trusted benchmarks that can evolve  
+- Transparent incentives: public infrastructure + sustainable SaaS options
+
+> Marovi’s role is to build and maintain the foundation — so others can build, lead, and localize on top of it.
+
+---
+
+### 🌍 Want to contribute to your language’s AI future?
+
+- Propose a new benchmark  
+- Translate or adapt the manifesto  
+- Add glossary terms or corrections  
+- Build new open-source language tools
+
+Together, we can make AI more transparent, more representative — and truly multilingual by design.
